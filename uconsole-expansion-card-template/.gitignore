@@ -1,0 +1,8 @@
+*.pdf
+jlcpcb/
+*backups
+*.bak
+*.lck
+/.kiri
+fp-info-cache
+

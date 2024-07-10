@@ -1,0 +1,40 @@
+{
+    "layout": {
+        "alternation": "cols",
+        "hspace": "2mm",
+        "vspace": "2mm",
+        "rotation": "180deg",
+        "cols": "2",
+        "vbonecut": "False",
+        "hbonecut": "False"
+    },
+    "tabs": {
+        "type": "fixed"
+    },
+    "cuts": {
+        "type": "mousebites",
+        "offset": "0.1mm"
+    },
+    "framing": {
+        "type": "railstb",
+        "width": "8mm"
+    },
+    "tooling": {
+        "type": "4hole",
+        "hoffset": "3mm",
+        "voffset": "3mm"
+    },
+    "fiducials": {
+        "type": "3fid",
+        "hoffset": "6mm",
+        "voffset": "3mm"
+    },
+    "text": {
+        "type": "simple",
+        "voffset": "3mm",
+        "text": "JLCJLCJLCJLC"
+    },
+    "copperfill": {
+        "type": "solid"
+    }
+}
